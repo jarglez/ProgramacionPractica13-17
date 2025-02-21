@@ -56,4 +56,4 @@ Al final del archivo contiene una línea que dice "Esta es una línea que no deb
 - Asegúrate que las columnas de SALE PRICE(sale_price), LAND SQUARE FEET (land_square_feet), GROSS SQUARE FEET (gross_square_feet) sean de tipo flotante. Escribe qué tipo de dato tienen asignado. Si no son correctos, realiza el cambio.
 - Imprime de nuevo los tipos de datos para demostrar que has arreglado el problema.
 
-## Práctica 17: Genera el diccionario de datos del dataframe preprocesado. Imprime el contenido de dicho diccionario
+### Práctica 17: Genera el diccionario de datos del dataframe preprocesado. Imprime el contenido de dicho diccionario
